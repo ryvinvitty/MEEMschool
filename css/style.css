@@ -218,7 +218,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 	Logo
 \*------------------------------------*/
 .navbar-brand {
-    padding: 1;
+    padding: 0;
 }
 
 .navbar-brand .logo {
@@ -462,7 +462,6 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 	font-size:30px;
 	border:1px solid #EBEBEB;
 	color:#FF6700;
-	
 }
 
 .feature-content {
@@ -472,17 +471,10 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 /* -- About Img -- */
 .about-img {
 	margin-top:40px;
-	margin-left: 100px;
-	
 }
 
 .about-img > img {
-	width: 500px;
-	height: 600px;
-	padding-left: 100px;
-}
-.about-img2{
-	margin-left: 50px;
+	width:100%;
 }
 
 /* -- About Video -- */
