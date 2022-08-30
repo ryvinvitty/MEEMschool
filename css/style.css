@@ -562,8 +562,9 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 	overflow:hidden;
 }
 
-.course .course-img > img {
-	width:100%;
+.course .course-img >img { 
+	width:250px;
+	height: 200px;
 }
 
 .course-img:after {
