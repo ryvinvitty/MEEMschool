@@ -810,7 +810,8 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 }
 
 .single-blog .blog-img img {
-	width:100%;
+	width:350px;
+	height: 200px;
 }
 
 .single-blog .blog-img > a:after {
